@@ -14,7 +14,7 @@ To write a Python program that checks whether a given number is a **palindrome**
 5. After the loop, compare `rev` with `num`:
    - If equal, print that the number is a palindrome.
    - Else, print that it is not a palindrome.
-
+ 
 ## 🧾 Program
 Developed By: V Mythili
 Reg No: 212223040123
