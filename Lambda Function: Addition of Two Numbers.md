@@ -14,7 +14,7 @@ Reg No: 212223040123
 
 ```
 x=int(input())
-y=int(input())
+y=int(input()) 
 z=int(input())
 f = lambda a, b,c: a+b+c
 print(f(x,y,z))
