@@ -40,7 +40,7 @@ for i in range(1, rows+1):
         if j==0 or i==0:
             x = 1
         else:
-            x *= (i - j)//j
+            x *= (i - j)//j 
                print(x, end = " ")
     print()
 ```
